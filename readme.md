@@ -2,7 +2,7 @@
 
 A website that displays movie-trailers
 
-![Fresh Tomatoes demo](/home/mann/fullstack/movie_trailer/images/project_prototype.png)
+![Fresh Tomatoes demo](https://github.com/anmolmann/movie-trailer/blob/master/images/project_prototype.png)
 
 ## Table of contents
 
