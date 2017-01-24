@@ -6,7 +6,7 @@ A website that displays movie-trailers
 
 ## Table of contents
 
-- [Quick Start](#quick-Start)
+- [Quick Start](#quick Start)
 - [Documentation](#documentation)
 - [Installation](#installation)
 - [Usage](#usage)
